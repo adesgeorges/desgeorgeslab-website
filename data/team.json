@@ -1,0 +1,267 @@
+{
+  "pi": {
+    "name": "Amédée des Georges",
+    "role": "Principal Investigator",
+    "detail": "Associate Professor, Department of Molecular Pathobiology, NYU College of Dentistry",
+    "bio": [
+      "Amédée studies how biological macromolecules work and how their activity is regulated. His lab combines cryo-electron microscopy, biophysics, and computational approaches to connect molecular structure and dynamics with function, with the goal of understanding disease and helping develop new treatments.",
+      "He trained in biochemistry at Université Pierre et Marie Curie in Paris and earned his PhD at the University of Cambridge, working with Linda Amos at the MRC Laboratory of Molecular Biology. He then pursued postdoctoral research with Joachim Frank at Columbia University. He established his independent laboratory at CUNY in 2015 and moved the lab to NYU in 2023.",
+      "Amédée aims to build a collaborative lab where scientists exchange ideas, think creatively, and develop their independence."
+    ],
+    "orcid_url": "https://orcid.org/0000-0002-9704-3781"
+  },
+  "current": [
+    {
+      "name": "Harsh Bansia",
+      "role": "Postdoctoral Scientist",
+      "detail": "",
+      "photo": "assets/harsh-bansia.jpg",
+      "bio": "Harsh combines cryo-electron microscopy, molecular dynamics simulations, and computational analysis to investigate how protein structure and motion determine function. He earned his BSc and MSc in Biotechnology at Jiwaji University and his PhD in Structural and Computational Biology at the Indian Institute of Science. His doctoral work explored hidden allosteric features of proteins and their implications for drug design. He joined the lab in 2020.",
+      "profile_url": "https://orcid.org/0000-0002-6738-8754",
+      "profile_label": "ORCID",
+      "orcid_url": "https://orcid.org/0000-0002-6738-8754"
+    },
+    {
+      "name": "Deijona Brown",
+      "role": "Junior Research Scientist",
+      "detail": "MS student in Bioinformatics · NYU Tandon School of Engineering",
+      "bio": "Deijona is a Junior Research Scientist in the des Georges Lab. Her collaborative research contributions include a study of neutralizing antibodies against SARS-CoV-2.",
+      "orcid_url": "https://orcid.org/0009-0003-0508-1057",
+      "linkedin_url": "https://www.linkedin.com/in/deijona-brown-502218175"
+    },
+    {
+      "name": "Andres Cabezas",
+      "role": "PhD Student",
+      "detail": "CUNY Graduate Center",
+      "photo": "assets/andres-cabezas.webp",
+      "bio": "Andres studies how interactions between proteins and lipids influence membrane protein function, using cryo-electron microscopy to examine large protein complexes such as calcium channels. He earned his BS in Biology at New Jersey City University in 2019, where he gained research experience in Yufeng Wei’s biochemistry lab. Outside the lab, he enjoys sports, gaming with friends, and developing his computer science skills.",
+      "profile_url": "https://www.gc.cuny.edu/people/andres-cabezas",
+      "profile_label": "CUNY profile",
+      "linkedin_url": "https://www.linkedin.com/in/andres-jorge-cabezas-8b9904152",
+      "orcid_url": "https://orcid.org/0000-0001-6114-4890"
+    },
+    {
+      "name": "Jack Mechler",
+      "role": "PhD Student",
+      "detail": "CUNY Graduate Center",
+      "mentor": "Pinar Ayata",
+      "mentor_url": "https://ayatalab.org/our-team/",
+      "photo": "assets/jack-mechler.webp",
+      "bio": "Jack uses cryo-electron microscopy and computational methods to study membrane proteins in their native environments, with an interest in the structural biology of Alzheimer’s disease. He studied at St. Lawrence University, where he investigated bacterial amyloid proteins in the Marano lab. His doctoral work is jointly mentored by Amédée des Georges and Pinar Ayata. Outside research, Jack enjoys reading and writing.",
+      "additional_profile_url": "https://ayatalab.org/our-team/",
+      "additional_profile_label": "Ayata Lab profile",
+      "orcid_url": "https://orcid.org/0000-0002-9183-5681"
+    },
+    {
+      "name": "Mitali Bhate",
+      "role": "PhD Student",
+      "detail": "CUNY Graduate Center",
+      "mentor": "Prabodhika Mallikaratchy",
+      "mentor_url": "https://www.nanobionyc.com/mentors/prabodhika-mallikaratchy",
+      "photo": "assets/mitali-bhate.webp",
+      "bio": "Mitali studies membrane protein interactions, with a particular interest in orphan G protein-coupled receptors implicated in neurodegenerative disease. Her work draws on cell and molecular biology, protein biochemistry, and cryo-electron microscopy to understand these receptors in cellular settings. Her collaborative research also includes aptamers that recognize native GPCRs. Outside the lab, she enjoys reading, hiking, and exploring wildlife and aquatic life.",
+      "profile_url": "https://asrc.gc.cuny.edu/people/mitali-bhate/",
+      "profile_label": "CUNY profile",
+      "linkedin_url": "https://www.linkedin.com/in/mitali-bhate-567223189",
+      "orcid_url": "https://orcid.org/0000-0001-6848-4038"
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Xingjian (Jim) Xu",
+      "role": "Rotation Student",
+      "detail": "",
+      "linkedin_url": "https://www.linkedin.com/in/xingjian-xu-b3b4b490/",
+      "orcid_url": "https://orcid.org/0000-0002-9609-4755"
+    },
+    {
+      "name": "Jakob Jorgensen Aastrup",
+      "role": "Postdoctoral Scientist",
+      "detail": "2019–2025"
+    },
+    {
+      "name": "Da Cui",
+      "role": "PhD Student · Graduated 2025",
+      "detail": "Postdoctoral scientist in Rui Zhao’s lab, University of Colorado Anschutz Medical Campus. NIH NRSA T32 Cancer Biology Fellow.",
+      "profile_url": "https://medschool.cuanschutz.edu/biochemistry/people/primary-faculty/zhao-rui",
+      "profile_label": "Rui Zhao’s lab",
+      "linkedin_url": "https://www.linkedin.com/in/da-cui-939915104/",
+      "orcid_url": "https://orcid.org/0000-0003-0180-496X"
+    },
+    {
+      "name": "Dominique Gutierrez",
+      "role": "PhD Student · Graduated 2024",
+      "detail": "",
+      "linkedin_url": "https://www.linkedin.com/in/dominique-gutierrez-917386100/"
+    },
+    {
+      "name": "Emily Armbruster",
+      "role": "Postdoctoral Scientist",
+      "detail": "2019–2022 · Now at Subspatial | Dectris",
+      "profile_url": "https://www.linkedin.com/in/emily-lithio/",
+      "profile_label": "LinkedIn",
+      "linkedin_url": "https://www.linkedin.com/in/emily-lithio/",
+      "orcid_url": "https://orcid.org/0000-0001-6343-2968"
+    },
+    {
+      "name": "Tara Marcink",
+      "role": "Postdoctoral Scientist",
+      "detail": "Co-mentored with Anne Moscona’s lab at Columbia University",
+      "linkedin_url": "https://www.linkedin.com/in/taramarcink/",
+      "orcid_url": "https://orcid.org/0000-0003-4295-1229"
+    },
+    {
+      "name": "Danya Ben-Hail",
+      "role": "Postdoctoral Scientist",
+      "detail": "2016–2019 · Now Vice President | Healthcare Equity Research at Jones",
+      "linkedin_url": "https://www.linkedin.com/in/danya-ben-hail/",
+      "orcid_url": "https://orcid.org/0000-0002-8210-3446"
+    },
+    {
+      "name": "Salah Salah",
+      "role": "Research Assistant",
+      "detail": "Now a Developer at WKB Technologies LLC",
+      "linkedin_url": "https://www.linkedin.com/in/salah-salah/"
+    }
+  ],
+  "students_current": [
+    {
+      "name": "Louis Gui",
+      "role": "High School Researcher",
+      "detail": "Bronx Science High School · Joined spring 2026"
+    },
+    {
+      "name": "Mark Xu",
+      "role": "High School Researcher",
+      "detail": "Bronx Science High School · Joined winter 2026"
+    },
+    {
+      "name": "Divyajot Kaur",
+      "role": "High School Researcher",
+      "detail": "AGGY Research Scholars program, Martin Van Buren High School · Joined fall 2024"
+    }
+  ],
+  "students_past": [
+    {
+      "name": "Muhtasim Syed",
+      "role": "CCNY · Chemistry BS",
+      "detail": "Joined fall 2023"
+    },
+    {
+      "name": "Elias Mortillaro",
+      "role": "CCNY · Chemistry BS",
+      "detail": "Fall 2022"
+    },
+    {
+      "name": "Nnonyem Sappleton",
+      "role": "CCNY · Biochemistry MS",
+      "detail": "Fall 2021"
+    },
+    {
+      "name": "Adrian Chelminski",
+      "role": "St. Francis College · CSURP",
+      "detail": "Summer 2021"
+    },
+    {
+      "name": "Maneeza Bilal",
+      "role": "CCNY · Biochemistry MS",
+      "detail": "Spring 2021"
+    },
+    {
+      "name": "Naomi Chery",
+      "role": "New York City College of Technology · CSURP",
+      "detail": "Summer 2020"
+    },
+    {
+      "name": "Akshal Shah",
+      "role": "Herricks High School",
+      "detail": "Summer 2020"
+    },
+    {
+      "name": "Dana Kanso",
+      "role": "CCNY",
+      "detail": "Joined fall 2019"
+    },
+    {
+      "name": "Hanna Pesniak",
+      "role": "Santa Barbara City College · NSF REU",
+      "detail": "Summer 2019"
+    },
+    {
+      "name": "Joseph Portelli",
+      "role": "CCNY · CSURP",
+      "detail": "Summer 2019"
+    },
+    {
+      "name": "Fadi Samaan",
+      "role": "CCNY",
+      "detail": "2017–2019"
+    },
+    {
+      "name": "Andrew Huss",
+      "role": "Chaffey College · NSF REU",
+      "detail": "Summer 2018"
+    },
+    {
+      "name": "Elizabeth Soto",
+      "role": "CCNY · NSF REU",
+      "detail": "Summer 2017"
+    },
+    {
+      "name": "Christopher Peralta",
+      "role": "University of Rochester · CSURP",
+      "detail": "Summer 2017"
+    },
+    {
+      "name": "Avery Ansbro",
+      "role": "Mahopac High School",
+      "detail": "Summer 2016"
+    }
+  ],
+  "visitors": [
+    {
+      "name": "Michele Cianci",
+      "role": "Professor · Università Politecnica delle Marche, Ancona, Italy",
+      "detail": "Winter 2023",
+      "profile_url": "https://www.univpm.it/Entra/Engine/RAServePG.php/P/320710010419/idsel/738/docname/MICHELE%20CIANCI/",
+      "profile_label": "University profile"
+    },
+    {
+      "name": "Maria Claudia Cedri",
+      "role": "PhD Student · Università Politecnica delle Marche, Ancona, Italy",
+      "detail": "Winter 2023"
+    },
+    {
+      "name": "Beatrice Vallone",
+      "role": "Professor · Sapienza University of Rome, Italy",
+      "detail": "Summer 2022",
+      "profile_url": "https://vallonelab.it/",
+      "profile_label": "Lab website"
+    },
+    {
+      "name": "Elena Gugole",
+      "role": "Postdoctoral Scientist · Sapienza University of Rome, Italy",
+      "detail": "Summer 2022"
+    },
+    {
+      "name": "Anthony Nguyen",
+      "role": "MD/PhD Student · HHMI–Duke University",
+      "detail": "2017–2022"
+    },
+    {
+      "name": "Gabriele Cerutti",
+      "role": "PhD Student · Sapienza University of Rome, Italy",
+      "detail": "January–June 2018"
+    },
+    {
+      "name": "Claudia Testi",
+      "role": "PhD Student · Sapienza University of Rome, Italy",
+      "detail": "Summer 2016; winter 2017"
+    },
+    {
+      "name": "Linda Montemiglio",
+      "role": "Postdoctoral Scientist · Sapienza University of Rome, Italy",
+      "detail": "Summer 2016"
+    }
+  ]
+}

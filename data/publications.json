@@ -1,0 +1,3726 @@
+{
+  "updated": "2026-10-19",
+  "policy": "PubMed journal articles and reviews; conference abstracts excluded; bioRxiv preprints without an identified journal version listed separately. Journal publication dates follow PubMed; preprint dates use first bioRxiv posting.",
+  "publications": [
+    {
+      "id": "42838934",
+      "pmid": "42838934",
+      "title": "Structural identification of the RY12 domain of RyR1 as an ADP sensor and the target of the malignant hyperthermia therapeutic dantrolene.",
+      "authors": [
+        "Kim K",
+        "Li H",
+        "Yuan Q",
+        "Melville Z",
+        "Zalk R",
+        "des Georges A",
+        "Frank J",
+        "Hendrickson WA",
+        "Marks AR",
+        "Clarke OB"
+      ],
+      "journal": "Nat Commun",
+      "year": 2026,
+      "date": "2026-09-04",
+      "volume": "17",
+      "issue": "1",
+      "pages": "10549",
+      "doi": "10.1038/s41467-026-76519-y",
+      "pmc": "PMC13642953",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42838934/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "9ZK8",
+          "url": "https://www.rcsb.org/structure/9ZK8",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZK8",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZK9",
+          "url": "https://www.rcsb.org/structure/9ZK9",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZK9",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZKA",
+          "url": "https://www.rcsb.org/structure/9ZKA",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZKA",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZKC",
+          "url": "https://www.rcsb.org/structure/9ZKC",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZKC",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZKD",
+          "url": "https://www.rcsb.org/structure/9ZKD",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZKD",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZKE",
+          "url": "https://www.rcsb.org/structure/9ZKE",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZKE",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZL7",
+          "url": "https://www.rcsb.org/structure/9ZL7",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZL7",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZLC",
+          "url": "https://www.rcsb.org/structure/9ZLC",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZLC",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZLF",
+          "url": "https://www.rcsb.org/structure/9ZLF",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZLF",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZLH",
+          "url": "https://www.rcsb.org/structure/9ZLH",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZLH",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZN6",
+          "url": "https://www.rcsb.org/structure/9ZN6",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZN6",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZN7",
+          "url": "https://www.rcsb.org/structure/9ZN7",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZN7",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZN8",
+          "url": "https://www.rcsb.org/structure/9ZN8",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZN8",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZN9",
+          "url": "https://www.rcsb.org/structure/9ZN9",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZN9",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZNA",
+          "url": "https://www.rcsb.org/structure/9ZNA",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZNA",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9ZND",
+          "url": "https://www.rcsb.org/structure/9ZND",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9ZND",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74282",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74282",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74290",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74290",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74292",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74292",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74293",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74293",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74294",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74294",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74295",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74295",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74296",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74296",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74297",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74297",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74298",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74298",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74299",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74299",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74300",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74300",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74301",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74301",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74302",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74302",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74303",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74303",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74304",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74304",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74305",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74305",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74306",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74306",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74307",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74307",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74308",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74308",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74309",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74309",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74310",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74310",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74311",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74311",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74314",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74314",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74328",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74328",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74348",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74348",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74349",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74349",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74350",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74350",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74351",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74351",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74352",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74352",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74353",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74353",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74354",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74354",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74355",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74355",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74356",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74356",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74357",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74357",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74358",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74358",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74359",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74359",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74361",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74361",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74362",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74362",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74363",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74363",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74364",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74364",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74365",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74365",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74392",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74392",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74394",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74394",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74397",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74397",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74398",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74398",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74401",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74401",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74402",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74402",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74403",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74403",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74404",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74404",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74436",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74436",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74437",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74437",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74438",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74438",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74439",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74439",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74441",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74441",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-74445",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-74445",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-13733",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-13733/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-13734",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-13734/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-13770",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-13770/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13642953/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "id": "biorxiv-ngf",
+      "pmid": "",
+      "title": "Structural basis for direct NGF/TrkA blockade by an analgesic antibody",
+      "authors": [
+        "Bansia H",
+        "Damo E",
+        "Glasser E",
+        "Bruni R",
+        "Koide S",
+        "Bunnett NW",
+        "des Georges A"
+      ],
+      "journal": "bioRxiv",
+      "year": 2026,
+      "date": "2026-07-01",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doi": "10.64898/2026.06.30.735605",
+      "pmc": "",
+      "kind": "preprint",
+      "review": false,
+      "source": "https://www.biorxiv.org/content/10.64898/2026.06.30.735605v1",
+      "biorxiv_version": "1",
+      "resources": [],
+      "types": [
+        "Preprint"
+      ]
+    },
+    {
+      "id": "42146699",
+      "pmid": "42146699",
+      "title": "Precision Aptamers Against a Native GPCR through Ligand-Guided Selection.",
+      "authors": [
+        "Egbe Vydaline AO",
+        "Bhate M",
+        "Sitaldin D",
+        "Cen YN",
+        "Rozhkov S",
+        "Sosa G",
+        "des Georges A",
+        "Mallikaratchy P"
+      ],
+      "journal": "bioRxiv",
+      "year": 2026,
+      "date": "2026-05-07",
+      "volume": "",
+      "issue": "",
+      "pages": "2026.05.04.722743",
+      "doi": "10.64898/2026.05.04.722743",
+      "pmc": "PMC13174393",
+      "kind": "preprint",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42146699/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "biorxiv_version": "1",
+      "biorxiv_source": "https://www.biorxiv.org/content/10.64898/2026.05.04.722743v1"
+    },
+    {
+      "id": "41511395",
+      "pmid": "41511395",
+      "title": "Sym024 Interacts with a Unique Epitope on the CD73 Homodimer, Favoring Effective Bivalent Binding to Improve Anti-PD-1 Therapy.",
+      "authors": [
+        "Jakobsen JS",
+        "Grandal MM",
+        "Hansen RW",
+        "Bansia H",
+        "Armbruster E",
+        "Theret I",
+        "Skartved NJØ",
+        "Hald R",
+        "Melander MC",
+        "Worsaae A",
+        "Riva M",
+        "Reckzeh K",
+        "Vuillard L",
+        "Lantto J",
+        "des Georges A",
+        "Fröhlich C"
+      ],
+      "journal": "Clin Cancer Res",
+      "year": 2026,
+      "date": "2026-03-16",
+      "volume": "32",
+      "issue": "6",
+      "pages": "1120-1135",
+      "doi": "10.1158/1078-0432.CCR-25-2406",
+      "pmc": "PMC12950896",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/41511395/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "9P1M",
+          "url": "https://www.rcsb.org/structure/9P1M",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/9P1M",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-71123",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-71123",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12950896/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-71125",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-71125",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12950896/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-71126",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-71126",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12950896/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-71127",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-71127",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12950896/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-71128",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-71128",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12950896/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "42124608",
+      "pmid": "42124608",
+      "title": "Structural basis of the lobster carapace blue colour mediated by an HPR protein.",
+      "authors": [
+        "Cedri MC",
+        "Bansia H",
+        "Amici A",
+        "Ortore MG",
+        "McCarthy A",
+        "Mueller-Dieckmann C",
+        "Lingas R",
+        "Durbeej B",
+        "Raffaelli N",
+        "Wang T",
+        "des Georges A",
+        "Cianci M"
+      ],
+      "journal": "bioRxiv",
+      "year": 2026,
+      "date": "2026-02-27",
+      "volume": "",
+      "issue": "",
+      "pages": "2026.02.26.708136",
+      "doi": "10.64898/2026.02.26.708136",
+      "pmc": "PMC13160164",
+      "kind": "preprint",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42124608/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "biorxiv_version": "1",
+      "biorxiv_source": "https://www.biorxiv.org/content/10.64898/2026.02.26.708136v1"
+    },
+    {
+      "id": "41720803",
+      "pmid": "41720803",
+      "title": "Mechanism of beta-arrestin 1 mediated Src activation via Src SH3 domain revealed by cryo-electron microscopy.",
+      "authors": [
+        "Pakharukova N",
+        "Thomas BN",
+        "Bansia H",
+        "Li L",
+        "Bassford DK",
+        "Abzalimov RR",
+        "Kim J",
+        "Kahsai AW",
+        "Pani B",
+        "Xiao K",
+        "Ochakovski R",
+        "Liu S",
+        "Zhang X",
+        "Ahn S",
+        "des Georges A",
+        "Lefkowitz RJ"
+      ],
+      "journal": "Nat Commun",
+      "year": 2026,
+      "date": "2026-02-20",
+      "volume": "17",
+      "issue": "1",
+      "pages": "2973",
+      "doi": "10.1038/s41467-026-69884-1",
+      "pmc": "PMC13035853",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/41720803/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "9BT8",
+          "url": "https://www.rcsb.org/structure/9BT8",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035853/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9CX3",
+          "url": "https://www.rcsb.org/structure/9CX3",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035853/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9CX9",
+          "url": "https://www.rcsb.org/structure/9CX9",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035853/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-44881",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-44881",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035853/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-45977",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-45977",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035853/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-45982",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-45982",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13035853/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "41536184",
+      "pmid": "41536184",
+      "title": "Sample purification and characterization of the α- and β-crustacyanin pigments from the American lobster for crystallographic and cryo-EM studies.",
+      "authors": [
+        "Cedri MC",
+        "Bansia H",
+        "Amici A",
+        "Collet T",
+        "Moretti P",
+        "McCarthy AA",
+        "Mueller-Dieckmann C",
+        "Raffaelli N",
+        "Wang T",
+        "des Georges A",
+        "Cianci M"
+      ],
+      "journal": "Acta Crystallogr F Struct Biol Commun",
+      "year": 2026,
+      "date": "2026-02-01",
+      "volume": "82",
+      "issue": "Pt 2",
+      "pages": "49-56",
+      "doi": "10.1107/S2053230X2600018X",
+      "pmc": "PMC12865778",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/41536184/",
+      "resources": [],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "40791316",
+      "pmid": "40791316",
+      "title": "The translation initiation factor DHX29 appears to pull on mRNA in a direction opposite to scanning.",
+      "authors": [
+        "Cui D",
+        "Pestova T",
+        "Hellen C",
+        "des Georges A"
+      ],
+      "journal": "bioRxiv",
+      "year": 2025,
+      "date": "2025-07-14",
+      "volume": "",
+      "issue": "",
+      "pages": "2025.07.13.664561",
+      "doi": "10.1101/2025.07.13.664561",
+      "pmc": "PMC12338671",
+      "kind": "preprint",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/40791316/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "9CPA",
+          "url": "https://www.rcsb.org/structure/9CPA",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12338671/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-3057",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-3057",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12338671/",
+          "context": "reused map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "biorxiv_version": "1",
+      "biorxiv_source": "https://www.biorxiv.org/content/10.1101/2025.07.13.664561v1"
+    },
+    {
+      "id": "40490540",
+      "pmid": "40490540",
+      "title": "Pore formation by the CDTb component of the Clostridioides difficile binary toxin is Ca2+-dependent.",
+      "authors": [
+        "Abeyawardhane DL",
+        "Sevdalis SE",
+        "Adipietro KA",
+        "Godoy-Ruiz R",
+        "Varney KM",
+        "Nawaz IF",
+        "Spittel AX",
+        "Hunter D",
+        "Rustandi RR",
+        "Silin VI",
+        "des Georges A",
+        "Cook ME",
+        "Pozharski E",
+        "Weber DJ"
+      ],
+      "journal": "Commun Biol",
+      "year": 2025,
+      "date": "2025-06-09",
+      "volume": "8",
+      "issue": "1",
+      "pages": "901",
+      "doi": "10.1038/s42003-025-08343-x",
+      "pmc": "PMC12149301",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/40490540/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "8EKK",
+          "url": "https://www.rcsb.org/structure/8EKK",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12149301/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "8EKL",
+          "url": "https://www.rcsb.org/structure/8EKL",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12149301/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "8EKM",
+          "url": "https://www.rcsb.org/structure/8EKM",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12149301/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "9MUI",
+          "url": "https://www.rcsb.org/structure/9MUI",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12149301/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-28205",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-28205",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12149301/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-28206",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-28206",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12149301/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-28207",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-28207",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12149301/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "41757224",
+      "pmid": "41757224",
+      "title": "Connecting the dots: deep learning-based automated model building methods in cryo-EM.",
+      "authors": [
+        "Bansia H",
+        "des Georges A"
+      ],
+      "journal": "Front Mol Biosci",
+      "year": 2025,
+      "date": "2025",
+      "volume": "12",
+      "issue": "",
+      "pages": "1613399",
+      "doi": "10.3389/fmolb.2025.1613399",
+      "pmc": "PMC12932156",
+      "kind": "published",
+      "review": true,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/41757224/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Review"
+      ]
+    },
+    {
+      "id": "39589827",
+      "pmid": "39589827",
+      "title": "Neuropilin-1 inhibition suppresses nerve growth factor signaling and nociception in pain models.",
+      "authors": [
+        "Peach CJ",
+        "Tonello R",
+        "Damo E",
+        "Gomez K",
+        "Calderon-Rivera A",
+        "Bruni R",
+        "Bansia H",
+        "Maile L",
+        "Manu AM",
+        "Hahn H",
+        "Thomsen AR",
+        "Schmidt BL",
+        "Davidson S",
+        "des Georges A",
+        "Khanna R",
+        "Bunnett NW"
+      ],
+      "journal": "J Clin Invest",
+      "year": 2024,
+      "date": "2024-11-26",
+      "volume": "135",
+      "issue": "4",
+      "pages": "e183873",
+      "doi": "10.1172/JCI183873",
+      "pmc": "PMC11827847",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/39589827/",
+      "resources": [],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "38340715",
+      "pmid": "38340715",
+      "title": "Visualization of translation reorganization upon persistent ribosome collision stress in mammalian cells.",
+      "authors": [
+        "Fedry J",
+        "Silva J",
+        "Vanevic M",
+        "Fronik S",
+        "Mechulam Y",
+        "Schmitt E",
+        "des Georges A",
+        "Faller WJ",
+        "Förster F"
+      ],
+      "journal": "Mol Cell",
+      "year": 2024,
+      "date": "2024-03-21",
+      "volume": "84",
+      "issue": "6",
+      "pages": "1078-1089.e4",
+      "doi": "10.1016/j.molcel.2024.01.015",
+      "pmc": "PMC7615912",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/38340715/",
+      "resources": [
+        {
+          "type": "EMDB",
+          "accession": "EMD-19211",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19211",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19212",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19212",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19213",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19213",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19214",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19214",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19215",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19215",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19216",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19216",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19217",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19217",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19218",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19218",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19219",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19219",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19220",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19220",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19221",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19221",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19222",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19222",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19223",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19223",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19224",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19224",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19225",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19225",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19226",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19226",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19227",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19227",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19228",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19228",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19229",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19229",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19230",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19230",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19231",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19231",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19232",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19232",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19233",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19233",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19234",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19234",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19235",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19235",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19236",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19236",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19237",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19237",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19238",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19238",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19239",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19239",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19240",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19240",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-19241",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-19241",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7615912/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "id": "37729215",
+      "pmid": "37729215",
+      "title": "Discovery of neutralizing SARS-CoV-2 antibodies enriched in a unique antigen specific B cell cluster.",
+      "authors": [
+        "Lende SSF",
+        "Barnkob NM",
+        "Hansen RW",
+        "Bansia H",
+        "Vestergaard M",
+        "Rothemejer FH",
+        "Worsaae A",
+        "Brown D",
+        "Pedersen ML",
+        "Rahimic AHF",
+        "Juhl AK",
+        "Gjetting T",
+        "Østergaard L",
+        "des Georges A",
+        "Vuillard LM",
+        "Schleimann MH",
+        "Koefoed K",
+        "Tolstrup M"
+      ],
+      "journal": "PLoS One",
+      "year": 2023,
+      "date": "2023-09-20",
+      "volume": "18",
+      "issue": "9",
+      "pages": "e0291131",
+      "doi": "10.1371/journal.pone.0291131",
+      "pmc": "PMC10511142",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/37729215/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "37416719",
+      "pmid": "37416719",
+      "title": "pH-tunable membrane-active polymers, NCMNP2a-x, and their potential membrane protein applications.",
+      "authors": [
+        "Trinh TKH",
+        "Cabezas AJ",
+        "Joshi S",
+        "Catalano C",
+        "Siddique AB",
+        "Qiu W",
+        "Deshmukh S",
+        "des Georges A",
+        "Guo Y"
+      ],
+      "journal": "Chem Sci",
+      "year": 2023,
+      "date": "2023-07-05",
+      "volume": "14",
+      "issue": "26",
+      "pages": "7310-7326",
+      "doi": "10.1039/d3sc01890c",
+      "pmc": "PMC10321531",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/37416719/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "7RR6",
+          "url": "https://www.rcsb.org/structure/7RR6",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7RR6",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "7RR7",
+          "url": "https://www.rcsb.org/structure/7RR7",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7RR7",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "7RR8",
+          "url": "https://www.rcsb.org/structure/7RR8",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7RR8",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24653",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24653",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7RR6",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24654",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24654",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7RR7",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24655",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24655",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7RR8",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "36763666",
+      "pmid": "36763666",
+      "title": "Subnanometer structure of an enveloped virus fusion complex on viral surface reveals new entry mechanisms.",
+      "authors": [
+        "Marcink TC",
+        "Zipursky G",
+        "Cheng W",
+        "Stearns K",
+        "Stenglein S",
+        "Golub K",
+        "Cohen F",
+        "Bovier F",
+        "Pfalmer D",
+        "Greninger AL",
+        "Porotto M",
+        "des Georges A",
+        "Moscona A"
+      ],
+      "journal": "Sci Adv",
+      "year": 2023,
+      "date": "2023-02-10",
+      "volume": "9",
+      "issue": "6",
+      "pages": "eade2727",
+      "doi": "10.1126/sciadv.ade2727",
+      "pmc": "PMC9917000",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/36763666/",
+      "resources": [
+        {
+          "type": "EMDB",
+          "accession": "EMD-27550",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-27550",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9917000/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-27551",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-27551",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9917000/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-11103",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-11103/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9917000/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-11104",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-11104/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9917000/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "35984891",
+      "pmid": "35984891",
+      "title": "Intermediates in SARS-CoV-2 spike-mediated cell entry.",
+      "authors": [
+        "Marcink TC",
+        "Kicmal T",
+        "Armbruster E",
+        "Zhang Z",
+        "Zipursky G",
+        "Golub KL",
+        "Idris M",
+        "Khao J",
+        "Drew-Bear J",
+        "McGill G",
+        "Gallagher T",
+        "Porotto M",
+        "des Georges A",
+        "Moscona A"
+      ],
+      "journal": "Sci Adv",
+      "year": 2022,
+      "date": "2022-08-19",
+      "volume": "8",
+      "issue": "33",
+      "pages": "eabo3153",
+      "doi": "10.1126/sciadv.abo3153",
+      "pmc": "PMC9390989",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/35984891/",
+      "resources": [
+        {
+          "type": "EMDB",
+          "accession": "EMD-24599",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24599",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390989/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24600",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24600",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390989/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24601",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24601",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390989/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24602",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24602",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390989/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24603",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24603",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390989/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24604",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24604",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390989/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-26679",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-26679",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390989/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10788",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10788/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9390989/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "35875870",
+      "pmid": "35875870",
+      "title": "Discovery of a Transferrin Receptor 1-Binding Aptamer and Its Application in Cancer Cell Depletion for Adoptive T-Cell Therapy Manufacturing.",
+      "authors": [
+        "Cheng EL",
+        "Cardle II",
+        "Kacherovsky N",
+        "Bansia H",
+        "Wang T",
+        "Zhou Y",
+        "Raman J",
+        "Yen A",
+        "Gutierrez D",
+        "Salipante SJ",
+        "des Georges A",
+        "Jensen MC",
+        "Pun SH"
+      ],
+      "journal": "J Am Chem Soc",
+      "year": 2022,
+      "date": "2022-08-03",
+      "volume": "144",
+      "issue": "30",
+      "pages": "13851-13864",
+      "doi": "10.1021/jacs.2c05349",
+      "pmc": "PMC10024945",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/35875870/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "7ZQS",
+          "url": "https://www.rcsb.org/structure/7ZQS",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7ZQS",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-14874",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-14874",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7ZQS",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, N.I.H., Extramural"
+      ]
+    },
+    {
+      "id": "34832078",
+      "pmid": "34832078",
+      "title": "Cryo-EM Structure of Mechanosensitive Channel YnaI Using SMA2000: Challenges and Opportunities.",
+      "authors": [
+        "Catalano C",
+        "Ben-Hail D",
+        "Qiu W",
+        "Blount P",
+        "des Georges A",
+        "Guo Y"
+      ],
+      "journal": "Membranes (Basel)",
+      "year": 2021,
+      "date": "2021-10-31",
+      "volume": "11",
+      "issue": "11",
+      "pages": "849",
+      "doi": "10.3390/membranes11110849",
+      "pmc": "PMC8621939",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/34832078/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "7N4T",
+          "url": "https://www.rcsb.org/structure/7N4T",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7N4T",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-24177",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-24177",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7N4T",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "33450244",
+      "pmid": "33450244",
+      "title": "ENRICH: A fast method to improve the quality of flexible macromolecular reconstructions.",
+      "authors": [
+        "Kazemi M",
+        "Sorzano COS",
+        "Carazo JM",
+        "des Georges A",
+        "Abrishami V",
+        "Vargas J"
+      ],
+      "journal": "Prog Biophys Mol Biol",
+      "year": 2021,
+      "date": "2021-09",
+      "volume": "164",
+      "issue": "",
+      "pages": "92-100",
+      "doi": "10.1016/j.pbiomolbio.2021.01.001",
+      "pmc": "",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/33450244/",
+      "resources": [],
+      "types": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "32948759",
+      "pmid": "32948759",
+      "title": "Retrieving functional pathways of biomolecules from single-particle snapshots.",
+      "authors": [
+        "Dashti A",
+        "Mashayekhi G",
+        "Shekhar M",
+        "Ben Hail D",
+        "Salah S",
+        "Schwander P",
+        "des Georges A",
+        "Singharoy A",
+        "Frank J",
+        "Ourmazd A"
+      ],
+      "journal": "Nat Commun",
+      "year": 2020,
+      "date": "2020-09-18",
+      "volume": "11",
+      "issue": "1",
+      "pages": "4734",
+      "doi": "10.1038/s41467-020-18403-x",
+      "pmc": "PMC7501871",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/32948759/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "6PV6",
+          "url": "https://www.rcsb.org/structure/6PV6",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6PV6",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "7JMF",
+          "url": "https://www.rcsb.org/structure/7JMF",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7JMF",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "7JMG",
+          "url": "https://www.rcsb.org/structure/7JMG",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7JMG",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "7JMH",
+          "url": "https://www.rcsb.org/structure/7JMH",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7JMH",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "7JMI",
+          "url": "https://www.rcsb.org/structure/7JMI",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7JMI",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "7JMJ",
+          "url": "https://www.rcsb.org/structure/7JMJ",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/7JMJ",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-20486",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-20486",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7501871/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-22392",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-22392",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7501871/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-22393",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-22393",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7501871/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-22394",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-22394",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7501871/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-22395",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-22395",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7501871/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-22396",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-22396",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7501871/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10315",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10315/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7501871/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "id": "32956394",
+      "pmid": "32956394",
+      "title": "Human parainfluenza virus fusion complex glycoproteins imaged in action on authentic viral surfaces.",
+      "authors": [
+        "Marcink TC",
+        "Wang T",
+        "des Georges A",
+        "Porotto M",
+        "Moscona A"
+      ],
+      "journal": "PLoS Pathog",
+      "year": 2020,
+      "date": "2020-09",
+      "volume": "16",
+      "issue": "9",
+      "pages": "e1008883",
+      "doi": "10.1371/journal.ppat.1008883",
+      "pmc": "PMC7529294",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/32956394/",
+      "resources": [
+        {
+          "type": "EMDB",
+          "accession": "EMD-22334",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-22334",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7529294/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10476",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10476/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7529294/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "32047132",
+      "pmid": "32047132",
+      "title": "Hijacking the Fusion Complex of Human Parainfluenza Virus as an Antiviral Strategy.",
+      "authors": [
+        "Marcink TC",
+        "Yariv E",
+        "Rybkina K",
+        "Más V",
+        "Bovier FT",
+        "des Georges A",
+        "Greninger AL",
+        "Alabi CA",
+        "Porotto M",
+        "Ben-Tal N",
+        "Moscona A"
+      ],
+      "journal": "mBio",
+      "year": 2020,
+      "date": "2020-02-11",
+      "volume": "11",
+      "issue": "1",
+      "pages": "e03203-19",
+      "doi": "10.1128/mBio.03203-19",
+      "pmc": "PMC7018645",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/32047132/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "id": "31896582",
+      "pmid": "31896582",
+      "title": "Structure of the cell-binding component of the Clostridium difficile binary toxin reveals a di-heptamer macromolecular assembly.",
+      "authors": [
+        "Xu X",
+        "Godoy-Ruiz R",
+        "Adipietro KA",
+        "Peralta C",
+        "Ben-Hail D",
+        "Varney KM",
+        "Cook ME",
+        "Roth BM",
+        "Wilder PT",
+        "Cleveland T",
+        "Grishaev A",
+        "Neu HM",
+        "Michel SLJ",
+        "Yu W",
+        "Beckett D",
+        "Rustandi RR",
+        "Lancaster C",
+        "Loughney JW",
+        "Kristopeit A",
+        "Christanti S",
+        "Olson JW",
+        "MacKerell AD",
+        "des Georges A",
+        "Pozharski E",
+        "Weber DJ"
+      ],
+      "journal": "Proc Natl Acad Sci U S A",
+      "year": 2020,
+      "date": "2020-01-14",
+      "volume": "117",
+      "issue": "2",
+      "pages": "1049-1058",
+      "doi": "10.1073/pnas.1919490117",
+      "pmc": "PMC6969506",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/31896582/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "6UWI",
+          "url": "https://www.rcsb.org/structure/6UWI",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6UWI",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "6UWO",
+          "url": "https://www.rcsb.org/structure/6UWO",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6UWO",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "6UWR",
+          "url": "https://www.rcsb.org/structure/6UWR",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6UWR",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "6UWT",
+          "url": "https://www.rcsb.org/structure/6UWT",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6UWT",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-20926",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-20926",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6UWR",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-20927",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-20927",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6UWT",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ]
+    },
+    {
+      "id": "31740855",
+      "pmid": "31740855",
+      "title": "Structure of an endosomal signaling GPCR-G protein-β-arrestin megacomplex.",
+      "authors": [
+        "Nguyen AH",
+        "Thomsen ARB",
+        "Cahill TJ",
+        "Huang R",
+        "Huang LY",
+        "Marcink T",
+        "Clarke OB",
+        "Heissel S",
+        "Masoudi A",
+        "Ben-Hail D",
+        "Samaan F",
+        "Dandey VP",
+        "Tan YZ",
+        "Hong C",
+        "Mahoney JP",
+        "Triest S",
+        "Little J",
+        "Chen X",
+        "Sunahara R",
+        "Steyaert J",
+        "Molina H",
+        "Yu Z",
+        "des Georges A",
+        "Lefkowitz RJ"
+      ],
+      "journal": "Nat Struct Mol Biol",
+      "year": 2019,
+      "date": "2019-12",
+      "volume": "26",
+      "issue": "12",
+      "pages": "1123-1131",
+      "doi": "10.1038/s41594-019-0330-y",
+      "pmc": "PMC7108872",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/31740855/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "6NI2",
+          "url": "https://www.rcsb.org/structure/6NI2",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6NI2",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "6NI3",
+          "url": "https://www.rcsb.org/structure/6NI3",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6NI3",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-9375",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-9375",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7108872/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-9376",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-9376",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7108872/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-9377",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-9377",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7108872/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "30850661",
+      "pmid": "30850661",
+      "title": "Cryo-EM structure of the human ferritin-transferrin receptor 1 complex.",
+      "authors": [
+        "Montemiglio LC",
+        "Testi C",
+        "Ceci P",
+        "Falvo E",
+        "Pitea M",
+        "Savino C",
+        "Arcovito A",
+        "Peruzzi G",
+        "Baiocco P",
+        "Mancia F",
+        "Boffi A",
+        "des Georges A",
+        "Vallone B"
+      ],
+      "journal": "Nat Commun",
+      "year": 2019,
+      "date": "2019-03-08",
+      "volume": "10",
+      "issue": "1",
+      "pages": "1121",
+      "doi": "10.1038/s41467-019-09098-w",
+      "pmc": "PMC6408514",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30850661/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "6GSR",
+          "url": "https://www.rcsb.org/structure/6GSR",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6GSR",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "6H5I",
+          "url": "https://www.rcsb.org/structure/6H5I",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6H5I",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-0046",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-0046",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6GSR",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-0140",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-0140",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6H5I",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "30582519",
+      "pmid": "30582519",
+      "title": "Mechanisms of opening and closing of the bacterial replicative helicase.",
+      "authors": [
+        "Chase J",
+        "Catalano A",
+        "Noble AJ",
+        "Eng ET",
+        "Olinares PD",
+        "Molloy K",
+        "Pakotiprapha D",
+        "Samuels M",
+        "Chait B",
+        "des Georges A",
+        "Jeruzalmi D"
+      ],
+      "journal": "Elife",
+      "year": 2018,
+      "date": "2018-12-24",
+      "volume": "7",
+      "issue": "",
+      "pages": "e41140",
+      "doi": "10.7554/eLife.41140",
+      "pmc": "PMC6391071",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30582519/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "6BBM",
+          "url": "https://www.rcsb.org/structure/6BBM",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6BBM",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7076",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7076",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/6BBM",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "30102720",
+      "pmid": "30102720",
+      "title": "Engineered ferritin for lanthanide binding.",
+      "authors": [
+        "Calisti L",
+        "Trabuco MC",
+        "Boffi A",
+        "Testi C",
+        "Montemiglio LC",
+        "des Georges A",
+        "Benni I",
+        "Ilari A",
+        "Taciak B",
+        "Białasek M",
+        "Rygiel T",
+        "Król M",
+        "Baiocco P",
+        "Bonamore A"
+      ],
+      "journal": "PLoS One",
+      "year": 2018,
+      "date": "2018-08-13",
+      "volume": "13",
+      "issue": "8",
+      "pages": "e0201859",
+      "doi": "10.1371/journal.pone.0201859",
+      "pmc": "PMC6089422",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/30102720/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "5OBA",
+          "url": "https://www.rcsb.org/structure/5OBA",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6089422/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5OBB",
+          "url": "https://www.rcsb.org/structure/5OBB",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6089422/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "29970463",
+      "pmid": "29970463",
+      "title": "Viral Entry Properties Required for Fitness in Humans Are Lost through Rapid Genomic Change during Viral Isolation.",
+      "authors": [
+        "Iketani S",
+        "Shean RC",
+        "Ferren M",
+        "Makhsous N",
+        "Aquino DB",
+        "des Georges A",
+        "Rima B",
+        "Mathieu C",
+        "Porotto M",
+        "Moscona A",
+        "Greninger AL"
+      ],
+      "journal": "mBio",
+      "year": 2018,
+      "date": "2018-07-03",
+      "volume": "9",
+      "issue": "4",
+      "pages": "e00898-18",
+      "doi": "10.1128/mBio.00898-18",
+      "pmc": "PMC6030562",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/29970463/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "29809143",
+      "pmid": "29809143",
+      "title": "Routine single particle CryoEM sample and grid characterization by tomography.",
+      "authors": [
+        "Noble AJ",
+        "Dandey VP",
+        "Wei H",
+        "Brasch J",
+        "Chase J",
+        "Acharya P",
+        "Tan YZ",
+        "Zhang Z",
+        "Kim LY",
+        "Scapin G",
+        "Rapp M",
+        "Eng ET",
+        "Rice WJ",
+        "Cheng A",
+        "Negro CJ",
+        "Shapiro L",
+        "Kwong PD",
+        "Jeruzalmi D",
+        "des Georges A",
+        "Potter CS",
+        "Carragher B"
+      ],
+      "journal": "Elife",
+      "year": 2018,
+      "date": "2018-05-29",
+      "volume": "7",
+      "issue": "",
+      "pages": "e34257",
+      "doi": "10.7554/eLife.34257",
+      "pmc": "PMC5999397",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/29809143/",
+      "resources": [
+        {
+          "type": "EMDB",
+          "accession": "EMD-7135",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7135",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7138",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7138",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7139",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7139",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7140",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7140",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7141",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7141",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7142",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7142",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7143",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7143",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7144",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7144",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7145",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7145",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7146",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7146",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7147",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7147",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7148",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7148",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7149",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7149",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7150",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7150",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7151",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7151",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7152",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7152",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7153",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7153",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-7154",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-7154",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10129",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10129/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10130",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10130/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10131",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10131/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10132",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10132/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10133",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10133/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10134",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10134/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10135",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10135/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10136",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10136/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10137",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10137/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10138",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10138/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10139",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10139/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10140",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10140/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10141",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10141/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10142",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10142/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10143",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10143/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10144",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10144/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10145",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10145/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10187",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10187/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMPIAR",
+          "accession": "EMPIAR-10188",
+          "url": "https://www.ebi.ac.uk/empiar/EMPIAR-10188/",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5999397/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, N.I.H., Intramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "29464565",
+      "pmid": "29464565",
+      "title": "Ryanodine Receptor Structure and Function in Health and Disease.",
+      "authors": [
+        "Santulli G",
+        "Lewis D",
+        "des Georges A",
+        "Marks AR",
+        "Frank J"
+      ],
+      "journal": "Subcell Biochem",
+      "year": 2018,
+      "date": "2018",
+      "volume": "87",
+      "issue": "",
+      "pages": "329-352",
+      "doi": "10.1007/978-981-10-7757-9_11",
+      "pmc": "PMC5936639",
+      "kind": "published",
+      "review": true,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/29464565/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ]
+    },
+    {
+      "id": "27942679",
+      "pmid": "27942679",
+      "title": "Humanized archaeal ferritin as a tool for cell targeted delivery.",
+      "authors": [
+        "de Turris V",
+        "Cardoso Trabuco M",
+        "Peruzzi G",
+        "Boffi A",
+        "Testi C",
+        "Vallone B",
+        "Celeste Montemiglio L",
+        "des Georges A",
+        "Calisti L",
+        "Benni I",
+        "Bonamore A",
+        "Baiocco P"
+      ],
+      "journal": "Nanoscale",
+      "year": 2017,
+      "date": "2017-01-05",
+      "volume": "9",
+      "issue": "2",
+      "pages": "647-655",
+      "doi": "10.1039/c6nr07129e",
+      "pmc": "",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/27942679/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "5LS9",
+          "url": "https://www.rcsb.org/structure/5LS9",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5LS9",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article"
+      ]
+    },
+    {
+      "id": "27662087",
+      "pmid": "27662087",
+      "title": "Structural Basis for Gating and Activation of RyR1.",
+      "authors": [
+        "des Georges A",
+        "Clarke OB",
+        "Zalk R",
+        "Yuan Q",
+        "Condon KJ",
+        "Grassucci RA",
+        "Hendrickson WA",
+        "Marks AR",
+        "Frank J"
+      ],
+      "journal": "Cell",
+      "year": 2016,
+      "date": "2016-09-22",
+      "volume": "167",
+      "issue": "1",
+      "pages": "145-157.e17",
+      "doi": "10.1016/j.cell.2016.08.075",
+      "pmc": "PMC5142848",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/27662087/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "5T15",
+          "url": "https://www.rcsb.org/structure/5T15",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T15",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5T9M",
+          "url": "https://www.rcsb.org/structure/5T9M",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9M",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5T9N",
+          "url": "https://www.rcsb.org/structure/5T9N",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9N",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5T9R",
+          "url": "https://www.rcsb.org/structure/5T9R",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9R",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5T9S",
+          "url": "https://www.rcsb.org/structure/5T9S",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9S",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5T9V",
+          "url": "https://www.rcsb.org/structure/5T9V",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9V",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TA3",
+          "url": "https://www.rcsb.org/structure/5TA3",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TA3",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAL",
+          "url": "https://www.rcsb.org/structure/5TAL",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAL",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAM",
+          "url": "https://www.rcsb.org/structure/5TAM",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAM",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAN",
+          "url": "https://www.rcsb.org/structure/5TAN",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAN",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAP",
+          "url": "https://www.rcsb.org/structure/5TAP",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAP",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAQ",
+          "url": "https://www.rcsb.org/structure/5TAQ",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAQ",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAS",
+          "url": "https://www.rcsb.org/structure/5TAS",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAS",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAT",
+          "url": "https://www.rcsb.org/structure/5TAT",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAT",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAU",
+          "url": "https://www.rcsb.org/structure/5TAU",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAU",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAV",
+          "url": "https://www.rcsb.org/structure/5TAV",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAV",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAW",
+          "url": "https://www.rcsb.org/structure/5TAW",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAW",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAX",
+          "url": "https://www.rcsb.org/structure/5TAX",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAX",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAY",
+          "url": "https://www.rcsb.org/structure/5TAY",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAY",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TAZ",
+          "url": "https://www.rcsb.org/structure/5TAZ",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAZ",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TB0",
+          "url": "https://www.rcsb.org/structure/5TB0",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB0",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TB1",
+          "url": "https://www.rcsb.org/structure/5TB1",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB1",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TB2",
+          "url": "https://www.rcsb.org/structure/5TB2",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB2",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TB3",
+          "url": "https://www.rcsb.org/structure/5TB3",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB3",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5TB4",
+          "url": "https://www.rcsb.org/structure/5TB4",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB4",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8342",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8342",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T15",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8372",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8372",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9M",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8373",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8373",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9N",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8374",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8374",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9R",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8375",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8375",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9S",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8376",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8376",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5T9V",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8377",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8377",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TA3",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8378",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8378",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAL",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8379",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8379",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAM",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8380",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8380",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAN",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8381",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8381",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAP",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8382",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8382",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAQ",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8383",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8383",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAS",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8384",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8384",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAT",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8385",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8385",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAU",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8386",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8386",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAV",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8387",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8387",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAW",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8388",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8388",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAX",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8389",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8389",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAY",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8390",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8390",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TAZ",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8391",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8391",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB0",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8392",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8392",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB1",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8393",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8393",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB2",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8394",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8394",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB3",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-8395",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-8395",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5TB4",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "26344199",
+      "pmid": "26344199",
+      "title": "Structure of mammalian eIF3 in the context of the 43S preinitiation complex.",
+      "authors": [
+        "des Georges A",
+        "Dhote V",
+        "Kuhn L",
+        "Hellen CU",
+        "Pestova TV",
+        "Frank J",
+        "Hashem Y"
+      ],
+      "journal": "Nature",
+      "year": 2015,
+      "date": "2015-09-24",
+      "volume": "525",
+      "issue": "7570",
+      "pages": "491-5",
+      "doi": "10.1038/nature14891",
+      "pmc": "PMC4719162",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/26344199/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "5A5T",
+          "url": "https://www.rcsb.org/structure/5A5T",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5A5T",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "PDB",
+          "accession": "5A5U",
+          "url": "https://www.rcsb.org/structure/5A5U",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/5A5U",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-3056",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-3056",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4719162/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-3057",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-3057",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4719162/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-3058",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-3058",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4719162/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "25470061",
+      "pmid": "25470061",
+      "title": "Structure of a mammalian ryanodine receptor.",
+      "authors": [
+        "Zalk R",
+        "Clarke OB",
+        "des Georges A",
+        "Grassucci RA",
+        "Reiken S",
+        "Mancia F",
+        "Hendrickson WA",
+        "Frank J",
+        "Marks AR"
+      ],
+      "journal": "Nature",
+      "year": 2015,
+      "date": "2015-01-01",
+      "volume": "517",
+      "issue": "7532",
+      "pages": "44-9",
+      "doi": "10.1038/nature13950",
+      "pmc": "PMC4300236",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/25470061/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "5TB0",
+          "url": "https://www.rcsb.org/structure/5TB0",
+          "source": "https://www.rcsb.org/structure/removed/3J8E",
+          "context": "replacement for obsolete 3J8E",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-6106",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-6106",
+          "source": "https://www.nature.com/articles/nature13950",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "24335085",
+      "pmid": "24335085",
+      "title": "Structure of the mammalian ribosomal pre-termination complex associated with eRF1.eRF3.GDPNP.",
+      "authors": [
+        "des Georges A",
+        "Hashem Y",
+        "Unbehaun A",
+        "Grassucci RA",
+        "Taylor D",
+        "Hellen CU",
+        "Pestova TV",
+        "Frank J"
+      ],
+      "journal": "Nucleic Acids Res",
+      "year": 2014,
+      "date": "2014-03",
+      "volume": "42",
+      "issue": "5",
+      "pages": "3409-18",
+      "doi": "10.1093/nar/gkt1279",
+      "pmc": "PMC3950680",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/24335085/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "3J5Y",
+          "url": "https://www.rcsb.org/structure/3J5Y",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/3J5Y",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-5801",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-5801",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/3J5Y",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "24185006",
+      "pmid": "24185006",
+      "title": "Hepatitis-C-virus-like internal ribosome entry sites displace eIF3 to gain access to the 40S subunit.",
+      "authors": [
+        "Hashem Y",
+        "des Georges A",
+        "Dhote V",
+        "Langlois R",
+        "Liao HY",
+        "Grassucci RA",
+        "Pestova TV",
+        "Hellen CU",
+        "Frank J"
+      ],
+      "journal": "Nature",
+      "year": 2013,
+      "date": "2013-11-28",
+      "volume": "503",
+      "issue": "7477",
+      "pages": "539-43",
+      "doi": "10.1038/nature12658",
+      "pmc": "PMC4106463",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/24185006/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "4C4Q",
+          "url": "https://www.rcsb.org/structure/4C4Q",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/4C4Q",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-2450",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-2450",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4106463/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-2451",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-2451",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4106463/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "23706745",
+      "pmid": "23706745",
+      "title": "Structure of the mammalian ribosomal 43S preinitiation complex bound to the scanning factor DHX29.",
+      "authors": [
+        "Hashem Y",
+        "des Georges A",
+        "Dhote V",
+        "Langlois R",
+        "Liao HY",
+        "Grassucci RA",
+        "Hellen CU",
+        "Pestova TV",
+        "Frank J"
+      ],
+      "journal": "Cell",
+      "year": 2013,
+      "date": "2013-05-23",
+      "volume": "153",
+      "issue": "5",
+      "pages": "1108-19",
+      "doi": "10.1016/j.cell.2013.04.036",
+      "pmc": "PMC3730827",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23706745/",
+      "resources": [
+        {
+          "type": "EMDB",
+          "accession": "EMD-5658",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-5658",
+          "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3730827/",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "23395961",
+      "pmid": "23395961",
+      "title": "High-resolution cryo-electron microscopy structure of the Trypanosoma brucei ribosome.",
+      "authors": [
+        "Hashem Y",
+        "des Georges A",
+        "Fu J",
+        "Buss SN",
+        "Jossinet F",
+        "Jobe A",
+        "Zhang Q",
+        "Liao HY",
+        "Grassucci RA",
+        "Bajaj C",
+        "Westhof E",
+        "Madison-Antenucci S",
+        "Frank J"
+      ],
+      "journal": "Nature",
+      "year": 2013,
+      "date": "2013-02-21",
+      "volume": "494",
+      "issue": "7437",
+      "pages": "385-9",
+      "doi": "10.1038/nature11872",
+      "pmc": "PMC3659406",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23395961/",
+      "resources": [
+        {
+          "type": "PDB",
+          "accession": "4V8M",
+          "url": "https://www.rcsb.org/structure/4V8M",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/4V8M",
+          "context": "deposited",
+          "checked": "2026-10-19"
+        },
+        {
+          "type": "EMDB",
+          "accession": "EMD-2239",
+          "url": "https://www.ebi.ac.uk/emdb/EMD-2239",
+          "source": "https://data.rcsb.org/rest/v1/core/entry/4V8M",
+          "context": "associated map",
+          "checked": "2026-10-19"
+        }
+      ],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ]
+    },
+    {
+      "id": "23228487",
+      "pmid": "23228487",
+      "title": "Affinity grid-based cryo-EM of PKC binding to RACK1 on the ribosome.",
+      "authors": [
+        "Sharma G",
+        "Pallesen J",
+        "Das S",
+        "Grassucci R",
+        "Langlois R",
+        "Hampton CM",
+        "Kelly DF",
+        "des Georges A",
+        "Frank J"
+      ],
+      "journal": "J Struct Biol",
+      "year": 2013,
+      "date": "2013-02",
+      "volume": "181",
+      "issue": "2",
+      "pages": "190-4",
+      "doi": "10.1016/j.jsb.2012.11.006",
+      "pmc": "PMC3833090",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23228487/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "23048030",
+      "pmid": "23048030",
+      "title": "Effect of envelope proteins on the mechanical properties of influenza virus.",
+      "authors": [
+        "Schaap IA",
+        "Eghiaian F",
+        "des Georges A",
+        "Veigel C"
+      ],
+      "journal": "J Biol Chem",
+      "year": 2012,
+      "date": "2012-11-30",
+      "volume": "287",
+      "issue": "49",
+      "pages": "41078-88",
+      "doi": "10.1074/jbc.M112.412726",
+      "pmc": "PMC3510809",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/23048030/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    {
+      "id": "18794845",
+      "pmid": "18794845",
+      "title": "Mal3, the Schizosaccharomyces pombe homolog of EB1, changes the microtubule lattice.",
+      "authors": [
+        "des Georges A",
+        "Katsuki M",
+        "Drummond DR",
+        "Osei M",
+        "Cross RA",
+        "Amos LA"
+      ],
+      "journal": "Nat Struct Mol Biol",
+      "year": 2008,
+      "date": "2008-10",
+      "volume": "15",
+      "issue": "10",
+      "pages": "1102-8",
+      "doi": "10.1038/nsmb.1482",
+      "pmc": "PMC2575238",
+      "kind": "published",
+      "review": false,
+      "source": "https://pubmed.ncbi.nlm.nih.gov/18794845/",
+      "resources": [],
+      "types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    }
+  ]
+}

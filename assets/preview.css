@@ -38,3 +38,5 @@ html{scroll-behavior:smooth}body{margin:0;color:var(--lab-text);font-family:"Ope
 .email-reveal{appearance:none;background:none;border:0;border-radius:0;color:inherit;font:inherit;padding:0;text-decoration:underline;text-underline-offset:3px;cursor:pointer}.email-reveal:focus-visible{outline:2px solid currentColor;outline-offset:5px}.email-result a{overflow-wrap:anywhere}.team-profile{align-items:center;flex-wrap:wrap}.research-mechanosensation{max-width:760px;margin:42px 0 30px}.research-mechanosensation p{font-size:17px;line-height:1.8}.email-reveal.join-contact-button{display:inline-block;background:#263d58;color:white;padding:13px 20px;text-decoration:none}.email-reveal[hidden]{display:none}
 
 .email-contact{min-width:0}.email-result,.email-address{overflow-wrap:anywhere}.email-address:focus-visible{outline:2px solid currentColor;outline-offset:4px}
+
+.team-profile .email-reveal{color:var(--lab-link);text-decoration:none}.team-profile .email-reveal:hover{color:#224167;text-decoration:underline}
